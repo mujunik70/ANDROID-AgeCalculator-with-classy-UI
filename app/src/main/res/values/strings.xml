@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="title_activity_age_result2">AgeResult2</string>
+    <string name="title_activity_guardian_age2">GuardianAge2</string>
+    <string name="title_activity_my_age2">MyAge2</string>
+    <string name="title_activity_parent_result2">ParentResult2</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
